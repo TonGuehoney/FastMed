@@ -10,4 +10,4 @@ FastMed: A Faster and Lighter-weight Model for 3D Medical Classification
 3.Training method  30%
 
 
-Publicly available resources for better understanding is necessary(IF) and please contact me
+Publicly available resources for better understanding is necessary(If you..) and please contact me
